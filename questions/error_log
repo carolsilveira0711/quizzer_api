@@ -1,0 +1,554 @@
+[19-Oct-2021 01:36:12 America/Fortaleza] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home1/quizze33/public_html/hmg/questions/filter_question.php on line 56
+[19-Oct-2021 01:38:34 America/Fortaleza] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home1/quizze33/public_html/hmg/questions/filter_question.php on line 56
+[19-Oct-2021 01:39:35 America/Fortaleza] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/quizze33/public_html/hmg/questions/filter_question.php on line 23
+[19-Oct-2021 01:39:35 America/Fortaleza] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/quizze33/public_html/hmg/questions/filter_question.php on line 29
+[19-Oct-2021 01:39:35 America/Fortaleza] PHP Warning:  Use of undefined constant dir - assumed 'dir' (this will throw an Error in a future version of PHP) in /home1/quizze33/public_html/hmg/questions/filter_question.php on line 32
+[19-Oct-2021 01:39:35 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home1/quizze33/public_html/hmg/questions/filter_question.php on line 39
+[19-Oct-2021 01:43:03 America/Fortaleza] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/quizze33/public_html/hmg/questions/filter_question.php on line 23
+[19-Oct-2021 01:43:03 America/Fortaleza] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/quizze33/public_html/hmg/questions/filter_question.php on line 29
+[19-Oct-2021 01:43:03 America/Fortaleza] PHP Warning:  Use of undefined constant dir - assumed 'dir' (this will throw an Error in a future version of PHP) in /home1/quizze33/public_html/hmg/questions/filter_question.php on line 32
+[19-Oct-2021 01:43:03 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home1/quizze33/public_html/hmg/questions/filter_question.php on line 39
+[19-Oct-2021 01:51:56 America/Fortaleza] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/quizze33/public_html/hmg/questions/filter_question.php on line 23
+[19-Oct-2021 01:51:56 America/Fortaleza] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/quizze33/public_html/hmg/questions/filter_question.php on line 29
+[19-Oct-2021 01:51:56 America/Fortaleza] PHP Warning:  Use of undefined constant dir - assumed 'dir' (this will throw an Error in a future version of PHP) in /home1/quizze33/public_html/hmg/questions/filter_question.php on line 32
+[19-Oct-2021 01:51:56 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home1/quizze33/public_html/hmg/questions/filter_question.php on line 39
+[19-Oct-2021 01:54:38 America/Fortaleza] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/quizze33/public_html/hmg/questions/filter_question.php on line 23
+[19-Oct-2021 01:54:38 America/Fortaleza] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/quizze33/public_html/hmg/questions/filter_question.php on line 29
+[19-Oct-2021 01:54:38 America/Fortaleza] PHP Warning:  Use of undefined constant dir - assumed 'dir' (this will throw an Error in a future version of PHP) in /home1/quizze33/public_html/hmg/questions/filter_question.php on line 32
+[19-Oct-2021 01:54:38 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home1/quizze33/public_html/hmg/questions/filter_question.php on line 39
+[19-Oct-2021 01:57:52 America/Fortaleza] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/quizze33/public_html/hmg/questions/filter_question.php on line 23
+[19-Oct-2021 01:57:52 America/Fortaleza] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/quizze33/public_html/hmg/questions/filter_question.php on line 29
+[19-Oct-2021 01:57:52 America/Fortaleza] PHP Warning:  Use of undefined constant dir - assumed 'dir' (this will throw an Error in a future version of PHP) in /home1/quizze33/public_html/hmg/questions/filter_question.php on line 32
+[19-Oct-2021 01:57:52 America/Fortaleza] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home1/quizze33/public_html/hmg/questions/filter_question.php on line 39
+[22-Oct-2021 13:39:01 America/Fortaleza] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home1/quizze33/public_html/hmg/questions/ssp.class.php on line 519
+[22-Oct-2021 13:39:01 America/Fortaleza] PHP Warning:  Illegal string offset 'dt' in /home1/quizze33/public_html/hmg/questions/ssp.class.php on line 520
+[22-Oct-2021 13:39:01 America/Fortaleza] PHP Warning:  Illegal string offset 'db' in /home1/quizze33/public_html/hmg/questions/ssp.class.php on line 144
+[22-Oct-2021 13:39:01 America/Fortaleza] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home1/quizze33/public_html/hmg/questions/ssp.class.php on line 519
+[22-Oct-2021 13:39:01 America/Fortaleza] PHP Warning:  Illegal string offset 'dt' in /home1/quizze33/public_html/hmg/questions/ssp.class.php on line 520
+[22-Oct-2021 13:39:01 America/Fortaleza] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home1/quizze33/public_html/hmg/questions/ssp.class.php on line 519
+[22-Oct-2021 13:39:01 America/Fortaleza] PHP Warning:  Illegal string offset 'db' in /home1/quizze33/public_html/hmg/questions/ssp.class.php on line 520
+[22-Oct-2021 13:39:01 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home1/quizze33/public_html/hmg/questions/ssp.class.php:451
+Stack trace:
+#0 /home1/quizze33/public_html/hmg/questions/ssp.class.php(265): SSP::sql_exec(Object(mysqli), Array, 'SELECT ``\r\n\t\t\t ...')
+#1 /home1/quizze33/public_html/hmg/questions/getData.php(27): SSP::simple(Array, Object(mysqli), Array, 'question', 'qst_id', Array)
+#2 {main}
+  thrown in /home1/quizze33/public_html/hmg/questions/ssp.class.php on line 451
+[22-Oct-2021 13:41:12 America/Fortaleza] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home1/quizze33/public_html/hmg/questions/ssp.class.php on line 519
+[22-Oct-2021 13:41:12 America/Fortaleza] PHP Warning:  Illegal string offset 'dt' in /home1/quizze33/public_html/hmg/questions/ssp.class.php on line 520
+[22-Oct-2021 13:41:12 America/Fortaleza] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home1/quizze33/public_html/hmg/questions/ssp.class.php on line 519
+[22-Oct-2021 13:41:12 America/Fortaleza] PHP Warning:  Illegal string offset 'db' in /home1/quizze33/public_html/hmg/questions/ssp.class.php on line 520
+[22-Oct-2021 13:41:12 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home1/quizze33/public_html/hmg/questions/ssp.class.php:451
+Stack trace:
+#0 /home1/quizze33/public_html/hmg/questions/ssp.class.php(265): SSP::sql_exec(Object(mysqli), Array, 'SELECT ``\r\n\t\t\t ...')
+#1 /home1/quizze33/public_html/hmg/questions/getData.php(27): SSP::simple(Array, Object(mysqli), Array, 'question', 'qst_id', Array)
+#2 {main}
+  thrown in /home1/quizze33/public_html/hmg/questions/ssp.class.php on line 451
+[22-Oct-2021 13:47:10 America/Fortaleza] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home1/quizze33/public_html/hmg/questions/ssp.class.php on line 519
+[22-Oct-2021 13:47:10 America/Fortaleza] PHP Warning:  Illegal string offset 'dt' in /home1/quizze33/public_html/hmg/questions/ssp.class.php on line 520
+[22-Oct-2021 13:47:10 America/Fortaleza] PHP Warning:  Illegal string offset 'db' in /home1/quizze33/public_html/hmg/questions/ssp.class.php on line 144
+[22-Oct-2021 13:47:10 America/Fortaleza] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home1/quizze33/public_html/hmg/questions/ssp.class.php on line 519
+[22-Oct-2021 13:47:10 America/Fortaleza] PHP Warning:  Illegal string offset 'dt' in /home1/quizze33/public_html/hmg/questions/ssp.class.php on line 520
+[22-Oct-2021 13:47:10 America/Fortaleza] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home1/quizze33/public_html/hmg/questions/ssp.class.php on line 519
+[22-Oct-2021 13:47:10 America/Fortaleza] PHP Warning:  Illegal string offset 'db' in /home1/quizze33/public_html/hmg/questions/ssp.class.php on line 520
+[22-Oct-2021 13:47:10 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home1/quizze33/public_html/hmg/questions/ssp.class.php:451
+Stack trace:
+#0 /home1/quizze33/public_html/hmg/questions/ssp.class.php(265): SSP::sql_exec(Object(mysqli), Array, 'SELECT ``\r\n\t\t\t ...')
+#1 /home1/quizze33/public_html/hmg/questions/getData.php(27): SSP::simple(Array, Object(mysqli), Array, 'question', 'qst_id', Array)
+#2 {main}
+  thrown in /home1/quizze33/public_html/hmg/questions/ssp.class.php on line 451
+[22-Oct-2021 14:15:16 America/Fortaleza] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home1/quizze33/public_html/hmg/questions/ssp.class.php on line 516
+[22-Oct-2021 14:15:16 America/Fortaleza] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home1/quizze33/public_html/hmg/questions/ssp.class.php on line 516
+[22-Oct-2021 14:15:16 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home1/quizze33/public_html/hmg/questions/ssp.class.php:448
+Stack trace:
+#0 /home1/quizze33/public_html/hmg/questions/ssp.class.php(262): SSP::sql_exec(Object(mysqli), Array, 'SELECT ``\r\n\t\t\t ...')
+#1 /home1/quizze33/public_html/hmg/questions/getData.php(27): SSP::simple(Array, Object(mysqli), Array, 'question', 'qst_id', Array)
+#2 {main}
+  thrown in /home1/quizze33/public_html/hmg/questions/ssp.class.php on line 448
+[22-Oct-2021 14:46:09 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined method SSP::pluck() in /home1/quizze33/public_html/hmg/questions/ssp.class.php:173
+Stack trace:
+#0 /home1/quizze33/public_html/hmg/questions/ssp.class.php(254): SSP::filter(Array, 'qst_id', Array)
+#1 /home1/quizze33/public_html/hmg/questions/getData.php(27): SSP::simple(Array, Object(mysqli), Array, 'question', 'qst_id', Array)
+#2 {main}
+  thrown in /home1/quizze33/public_html/hmg/questions/ssp.class.php on line 173
+[22-Oct-2021 14:48:00 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined method SSP::pluck() in /home1/quizze33/public_html/hmg/questions/ssp.class.php:173
+Stack trace:
+#0 /home1/quizze33/public_html/hmg/questions/ssp.class.php(254): SSP::filter(Array, 'qst_id', Array)
+#1 /home1/quizze33/public_html/hmg/questions/getData.php(27): SSP::simple(Array, Object(mysqli), Array, 'question', 'qst_id', Array)
+#2 {main}
+  thrown in /home1/quizze33/public_html/hmg/questions/ssp.class.php on line 173
+[22-Oct-2021 14:50:01 America/Fortaleza] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/quizze33/public_html/hmg/questions/ssp.class.php on line 357
+[22-Oct-2021 14:53:01 America/Fortaleza] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home1/quizze33/public_html/hmg/questions/ssp.class.php on line 325
+[22-Oct-2021 14:53:01 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined method SSP::sql_exec() in /home1/quizze33/public_html/hmg/questions/ssp.class.php:257
+Stack trace:
+#0 /home1/quizze33/public_html/hmg/questions/getData.php(27): SSP::simple(Array, Object(mysqli), Array, 'question', 'qst_id', Array)
+#1 {main}
+  thrown in /home1/quizze33/public_html/hmg/questions/ssp.class.php on line 257
+[22-Oct-2021 20:41:46 America/Fortaleza] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home1/quizze33/public_html/hmg/questions/ssp.class.php on line 519
+[22-Oct-2021 20:41:46 America/Fortaleza] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home1/quizze33/public_html/hmg/questions/ssp.class.php on line 519
+[22-Oct-2021 20:41:46 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home1/quizze33/public_html/hmg/questions/ssp.class.php:451
+Stack trace:
+#0 /home1/quizze33/public_html/hmg/questions/ssp.class.php(265): SSP::sql_exec(Object(mysqli), Array, 'SELECT ``\r\n\t\t\t ...')
+#1 /home1/quizze33/public_html/hmg/questions/getData.php(27): SSP::simple(Array, Object(mysqli), Array, 'question', 'qst_id', Array)
+#2 {main}
+  thrown in /home1/quizze33/public_html/hmg/questions/ssp.class.php on line 451
+[22-Oct-2021 21:10:02 America/Fortaleza] PHP Warning:  json_encode() expects at most 3 parameters, 6 given in /home1/quizze33/public_html/hmg/questions/getData.php on line 26
+[22-Oct-2021 21:14:16 America/Fortaleza] PHP Warning:  json_encode() expects at most 3 parameters, 6 given in /home1/quizze33/public_html/hmg/questions/getData.php on line 26
+[28-Oct-2021 11:28:14 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[28-Oct-2021 11:32:28 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[28-Oct-2021 11:33:22 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[28-Oct-2021 11:34:21 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[28-Oct-2021 11:40:56 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[28-Oct-2021 11:42:15 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[28-Oct-2021 11:43:17 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[28-Oct-2021 11:44:11 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[28-Oct-2021 11:45:02 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[28-Oct-2021 11:46:17 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[28-Oct-2021 11:47:08 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[28-Oct-2021 11:48:10 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[28-Oct-2021 11:49:01 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[28-Oct-2021 11:50:45 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[28-Oct-2021 11:59:01 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[28-Oct-2021 12:01:39 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[28-Oct-2021 12:02:30 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[28-Oct-2021 12:03:26 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[28-Oct-2021 12:04:55 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[28-Oct-2021 12:06:45 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[28-Oct-2021 12:08:16 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[28-Oct-2021 12:09:04 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[28-Oct-2021 12:10:10 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[28-Oct-2021 12:11:00 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[04-Nov-2021 12:33:29 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[04-Nov-2021 12:35:24 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[04-Nov-2021 12:36:10 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[04-Nov-2021 12:37:10 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[04-Nov-2021 12:38:05 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[04-Nov-2021 12:38:50 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[04-Nov-2021 12:39:50 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[04-Nov-2021 12:40:39 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[04-Nov-2021 12:51:50 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[04-Nov-2021 12:52:45 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[04-Nov-2021 12:59:12 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[04-Nov-2021 13:01:17 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[04-Nov-2021 13:02:50 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[04-Nov-2021 13:05:49 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[04-Nov-2021 13:06:48 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[04-Nov-2021 13:07:33 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[04-Nov-2021 13:08:35 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[04-Nov-2021 13:18:13 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[04-Nov-2021 13:19:10 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[04-Nov-2021 13:20:42 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[04-Nov-2021 13:42:18 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[04-Nov-2021 13:43:53 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[04-Nov-2021 13:44:58 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[04-Nov-2021 13:45:46 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[04-Nov-2021 13:46:50 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[04-Nov-2021 13:47:40 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[04-Nov-2021 13:48:45 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[04-Nov-2021 13:50:32 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[04-Nov-2021 13:51:18 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[04-Nov-2021 13:52:22 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[04-Nov-2021 13:55:32 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[04-Nov-2021 13:56:20 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[04-Nov-2021 13:57:21 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[04-Nov-2021 13:58:11 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[04-Nov-2021 13:59:10 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[04-Nov-2021 14:00:10 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[04-Nov-2021 14:01:10 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[04-Nov-2021 14:02:00 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[04-Nov-2021 14:02:44 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[04-Nov-2021 14:03:26 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[04-Nov-2021 14:11:09 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[04-Nov-2021 14:12:10 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[04-Nov-2021 14:12:55 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[04-Nov-2021 14:13:44 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[04-Nov-2021 14:17:21 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[04-Nov-2021 14:18:11 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[04-Nov-2021 14:19:11 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[04-Nov-2021 14:19:54 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[04-Nov-2021 14:20:58 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[04-Nov-2021 14:21:48 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[04-Nov-2021 14:23:50 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[04-Nov-2021 14:24:39 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[04-Nov-2021 14:25:53 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[04-Nov-2021 14:26:42 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[04-Nov-2021 14:28:11 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[04-Nov-2021 14:29:28 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[04-Nov-2021 14:30:17 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[04-Nov-2021 14:31:19 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[04-Nov-2021 14:32:25 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[04-Nov-2021 14:34:02 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 16:56:55 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 16:58:08 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 16:58:58 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 16:59:49 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 17:00:42 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 17:01:37 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 17:02:47 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 17:04:01 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 19:33:19 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 19:34:21 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 19:35:51 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 19:37:03 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 20:03:17 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 20:04:21 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 20:05:14 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 20:06:22 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 20:07:25 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 20:08:36 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 20:09:24 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 20:10:22 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 20:12:34 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 20:14:05 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 20:14:59 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 20:15:54 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 20:17:01 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 20:17:49 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 20:18:45 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 20:20:03 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 20:26:50 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 20:30:31 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 20:34:21 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 20:35:25 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 20:36:24 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 20:37:48 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 20:39:01 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 20:39:53 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 20:40:40 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 20:41:36 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 20:42:28 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 20:43:16 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 20:44:58 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 20:45:42 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 20:46:34 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 79
+[19-Nov-2021 20:47:27 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 20:48:14 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 20:49:16 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 20:50:32 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 20:51:21 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 20:52:16 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 20:52:57 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 20:56:05 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 79
+[19-Nov-2021 20:57:07 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 79
+[19-Nov-2021 21:07:10 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 79
+[19-Nov-2021 22:20:14 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 79
+[19-Nov-2021 22:23:00 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 22:25:28 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 22:26:36 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 79
+[19-Nov-2021 22:27:47 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 22:30:36 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 79
+[19-Nov-2021 22:33:38 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 22:34:41 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 22:35:39 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 22:37:09 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 22:38:07 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 22:39:13 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 22:40:58 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 22:42:12 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 22:50:15 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 22:51:31 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 22:52:42 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 22:53:43 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 22:54:49 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 22:55:44 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 22:56:49 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 22:57:36 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 22:58:53 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 23:00:08 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 23:01:48 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 23:21:02 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 23:25:38 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 23:26:28 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 23:27:15 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 23:28:16 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 23:29:47 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 23:30:27 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 23:31:18 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 23:32:07 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 23:34:07 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 23:35:09 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 23:36:12 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 23:37:22 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 23:38:19 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 23:41:07 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 23:42:53 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 23:43:59 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 23:44:50 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 23:46:33 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 23:48:29 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 23:52:32 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 23:53:38 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[19-Nov-2021 23:54:58 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[20-Nov-2021 00:30:49 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[20-Nov-2021 00:31:49 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[20-Nov-2021 00:32:53 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[20-Nov-2021 00:33:40 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[20-Nov-2021 00:34:36 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[20-Nov-2021 00:35:35 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[20-Nov-2021 00:49:11 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[20-Nov-2021 00:50:00 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[20-Nov-2021 00:50:47 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[20-Nov-2021 00:51:28 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[20-Nov-2021 00:52:26 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[20-Nov-2021 00:53:17 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[20-Nov-2021 00:53:59 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[20-Nov-2021 00:54:56 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[20-Nov-2021 00:55:57 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[20-Nov-2021 00:56:51 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[20-Nov-2021 01:28:37 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[20-Nov-2021 01:29:57 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[20-Nov-2021 01:30:41 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[20-Nov-2021 01:31:26 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[20-Nov-2021 01:32:14 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[20-Nov-2021 01:33:16 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[20-Nov-2021 01:34:11 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[20-Nov-2021 01:35:43 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[20-Nov-2021 01:36:29 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[20-Nov-2021 01:37:22 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[21-Nov-2021 10:37:50 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/edit_question.php on line 37
+[27-Nov-2021 01:13:32 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[27-Nov-2021 01:16:00 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[27-Nov-2021 01:17:00 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[27-Nov-2021 01:17:59 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[27-Nov-2021 01:19:09 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[27-Nov-2021 01:20:46 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[27-Nov-2021 01:21:37 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[27-Nov-2021 01:23:06 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[27-Nov-2021 01:23:58 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[27-Nov-2021 01:24:49 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[27-Nov-2021 01:27:12 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[27-Nov-2021 01:28:11 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[27-Nov-2021 20:27:50 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[27-Nov-2021 20:29:25 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[27-Nov-2021 20:30:21 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[27-Nov-2021 20:31:10 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[27-Nov-2021 20:32:37 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[27-Nov-2021 20:33:46 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[27-Nov-2021 20:34:47 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[27-Nov-2021 20:35:50 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[27-Nov-2021 20:37:54 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[27-Nov-2021 20:40:29 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[27-Nov-2021 20:42:21 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[27-Nov-2021 20:43:06 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[27-Nov-2021 20:43:55 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[27-Nov-2021 20:44:56 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[27-Nov-2021 20:45:42 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[27-Nov-2021 20:46:30 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[27-Nov-2021 20:57:57 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[27-Nov-2021 20:59:03 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[28-Nov-2021 13:48:19 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[28-Nov-2021 13:49:32 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[28-Nov-2021 13:50:43 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[28-Nov-2021 13:53:23 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[28-Nov-2021 13:54:46 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[28-Nov-2021 13:55:54 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[28-Nov-2021 13:57:10 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[28-Nov-2021 13:58:34 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[28-Nov-2021 13:59:28 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[28-Nov-2021 14:01:00 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[28-Nov-2021 14:09:36 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[28-Nov-2021 14:10:52 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[28-Nov-2021 14:12:19 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[28-Nov-2021 14:13:19 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[28-Nov-2021 14:16:07 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[28-Nov-2021 14:17:54 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[28-Nov-2021 14:19:33 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[28-Nov-2021 14:20:41 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[28-Nov-2021 14:21:31 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[28-Nov-2021 14:24:34 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[28-Nov-2021 14:35:30 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[28-Nov-2021 14:36:53 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[28-Nov-2021 14:38:40 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[28-Nov-2021 14:39:49 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[28-Nov-2021 14:41:22 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[28-Nov-2021 14:42:26 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[28-Nov-2021 14:43:42 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[28-Nov-2021 14:44:53 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[28-Nov-2021 14:45:49 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[28-Nov-2021 14:46:57 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 16:57:49 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 16:58:47 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 17:11:38 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 17:12:44 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 17:13:23 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 17:14:08 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 17:15:10 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 17:15:58 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 17:16:57 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 17:17:40 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 17:20:11 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 17:21:20 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 17:22:16 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 17:23:10 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 17:24:14 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 17:24:54 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 17:26:17 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 17:27:05 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 17:28:17 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 17:29:06 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 17:32:52 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 17:34:00 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 17:35:07 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 17:36:03 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 17:38:17 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 17:39:09 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 17:39:55 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 17:41:24 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 17:43:07 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 17:44:44 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 17:50:42 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 17:52:26 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 17:53:14 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 17:54:12 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 17:58:22 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 17:59:15 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 18:00:22 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 18:01:15 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 18:02:08 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 18:03:03 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 18:06:20 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 18:07:28 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 18:08:25 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 18:16:33 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 18:20:56 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/edit_question.php on line 37
+[30-Nov-2021 18:22:38 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/edit_question.php on line 37
+[30-Nov-2021 18:24:30 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/edit_question.php on line 37
+[30-Nov-2021 18:25:50 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/edit_question.php on line 37
+[30-Nov-2021 18:35:02 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 18:37:49 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 18:39:35 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 18:40:28 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 18:41:22 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 18:44:38 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 18:47:28 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 18:48:48 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 18:50:19 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 18:51:50 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 18:53:02 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 18:55:52 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 18:57:28 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 18:59:26 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 19:00:26 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 19:01:16 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 19:16:38 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 19:17:35 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 19:18:47 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 19:20:36 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 19:22:01 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 19:23:06 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 19:24:19 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 19:26:08 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 19:27:02 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 19:27:52 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 19:30:47 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 19:31:35 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 19:33:03 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 19:34:37 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 19:35:31 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 19:37:37 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 19:38:29 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 19:40:58 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 19:41:49 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 19:43:30 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 19:45:41 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 19:46:36 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 19:47:27 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 19:49:10 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 19:50:36 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 19:51:41 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 19:52:41 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 19:54:27 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 19:56:12 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 19:57:04 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 22:57:52 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 22:59:13 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 23:00:10 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 23:04:02 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 23:05:08 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 23:06:05 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 23:07:00 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 23:08:34 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 23:09:52 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 23:10:53 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 23:12:44 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 23:13:34 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 23:14:24 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 23:15:30 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 23:16:32 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 23:17:31 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 23:20:16 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 23:21:44 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 23:23:20 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 23:24:19 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 23:26:48 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 23:28:15 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 23:28:57 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 23:29:59 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 23:31:23 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 23:33:04 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 23:34:13 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 23:36:08 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 23:37:27 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 23:38:31 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 23:42:08 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 23:44:07 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 23:45:55 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 23:47:53 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 23:49:05 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 23:50:47 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 23:53:49 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 23:54:36 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 23:55:47 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[30-Nov-2021 23:57:30 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[01-Dec-2021 00:00:09 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[01-Dec-2021 00:00:58 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[01-Dec-2021 00:01:47 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[01-Dec-2021 00:02:36 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[01-Dec-2021 00:03:53 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[01-Dec-2021 00:05:10 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[01-Dec-2021 00:06:02 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[01-Dec-2021 00:06:46 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[01-Dec-2021 00:08:14 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[01-Dec-2021 00:09:11 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[01-Dec-2021 00:10:47 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[01-Dec-2021 00:11:35 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[01-Dec-2021 00:13:14 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[01-Dec-2021 00:14:21 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[01-Dec-2021 00:15:36 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[01-Dec-2021 00:17:04 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[01-Dec-2021 00:18:07 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[01-Dec-2021 00:19:41 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[01-Dec-2021 00:20:54 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[01-Dec-2021 00:21:57 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[01-Dec-2021 01:27:42 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[01-Dec-2021 01:28:34 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[01-Dec-2021 01:29:43 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[01-Dec-2021 01:31:06 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[01-Dec-2021 01:32:11 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[01-Dec-2021 01:33:28 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[01-Dec-2021 01:34:20 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[01-Dec-2021 01:35:25 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[01-Dec-2021 01:37:46 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[01-Dec-2021 01:39:43 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[01-Dec-2021 01:41:44 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[01-Dec-2021 01:58:09 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[01-Dec-2021 01:59:34 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[01-Dec-2021 02:00:47 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[01-Dec-2021 02:01:56 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[01-Dec-2021 02:03:20 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[01-Dec-2021 02:04:49 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[01-Dec-2021 02:07:04 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[01-Dec-2021 02:08:00 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[01-Dec-2021 02:08:45 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[01-Dec-2021 02:14:40 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[01-Dec-2021 02:17:05 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[01-Dec-2021 02:18:28 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[01-Dec-2021 02:19:56 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[01-Dec-2021 02:22:45 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[01-Dec-2021 02:23:54 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[01-Dec-2021 02:25:15 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[01-Dec-2021 02:26:35 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[01-Dec-2021 02:27:24 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[01-Dec-2021 02:28:47 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[20-Dec-2021 16:11:47 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/edit_question.php on line 37
+[20-Dec-2021 20:48:23 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/add_question.php on line 97
+[03-Jan-2022 12:50:26 America/Fortaleza] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/quizze33/public_html/hmg/questions/edit_question.php on line 37
