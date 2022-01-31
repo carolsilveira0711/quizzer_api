@@ -1,7 +1,7 @@
 
 <?php
 
-$conn = mysqli_connect("localhost", "quizze33_dani", "l33th4x0", "quizze33_homo");
+$conn = mysqli_connect;
 
 // Check connection
 
