@@ -1,6 +1,2 @@
-# quizzer_hmg
+API - Quizzer (ambiente de homologação)
 
-Eu consegui.
-Agora me dá o prêmio
-
-mamão no teus beiço, angelina
